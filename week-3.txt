@@ -1,0 +1,18 @@
+Used Concepts:
+
+Object-Oriented Programming (OOP)
+File I/O
+Exception Handling
+ArrayList
+User Input/Output
+Looping and Decision Making
+Faced Problems:
+
+File handling exceptions
+Serialization/deserialization concerns
+Console-based interface limitations
+Security issues (password storage)
+Code organization challenges
+Lack of data validation
+Persistence across sessions
+Limited error details
